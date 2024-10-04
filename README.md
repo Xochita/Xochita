@@ -2,7 +2,7 @@
 - 👀 I’m interested in wastewater treatment
 - 🌱 I’m currently learning to program in Python
 - 💞️ I’m looking to collaborate on scientific projects
-- 😄 Pronouns: Xochita
+- 😄 Pronouns: Xoch
 - ⚡ Fun fact: I like renewable energies, with a focus on bioenergy
 
 <!---
