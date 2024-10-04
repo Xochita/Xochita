@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xochita
+- 👋 Hi, I’m @Xocitl Corona M.
 - 👀 I’m interested in wastewater treatment
 - 🌱 I’m currently learning to program in Python
 - 💞️ I’m looking to collaborate on scientific projects
